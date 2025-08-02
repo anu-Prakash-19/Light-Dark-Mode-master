@@ -1,56 +1,40 @@
-# 🌗 Light-Dark-Mode
+# Project Video Demo
 
-A simple and responsive website template that allows users to toggle between **Light and Dark themes**.
+Hi there! 👋  
+This repository includes a short 17-second demo video of one of my recent projects. The video gives a quick overview of how the project works, highlighting the main features and user experience.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/anu-prakash-19/Light-Dark-Mode?color=blue)
-![GitHub top language](https://img.shields.io/github/languages/top/anu-prakash-19/Light-Dark-Mode)
-[![Live Demo](https://img.shields.io/badge/View-Live-green?style=for-the-badge&logo=github)](https://anu-prakash-19.github.io/Light-Dark-Mode/)
+## 📹 About the Video
 
----
+- **File name**: `c442fde1-aa88-431b-a276-82ff8609c35e.mp4`
+- **Format**: MP4
+- **Length**: 17 seconds
+- **Content**: A brief walkthrough of the project interface and key functionality.
 
-## 🚀 Live Demo
+## 🧑‍💻 Project Highlights
 
-👉 [Click Here to View the Live Site](https://anu-prakash-19.github.io/Light-Dark-Mode/)
+In this short video, you’ll see:
 
----
+- The basic flow of the application
+- Key features in action
+- A quick look at how the interface works
 
-## 🛠️ Features
+## ⚙️ Tools & Technologies Used
 
-- 🌞 Light & 🌚 Dark Mode toggle
-- Responsive design
-- Smooth transitions
-- Modern UI with icons and section navigation
-- About, Projects, and Contact sections
-- Social media integration (GitHub, LinkedIn, Email)
+- Frontend: [React / HTML / CSS / JavaScript]
+- Backend: [Node.js / Django / Python]
+- Database: [MongoDB / MySQL]
+- Other: [APIs / Firebase / Git]
 
----
+*Note: Replace the technologies above with the ones you actually used.*
 
-## 📁 Folder Structure
+## 🙋‍♀️ About Me
 
----
+I'm **Anu Prakash**, a Computer Science student who loves building projects that solve real-world problems.
 
-## 📸 Screenshots
+- ✉️ Email: anuprakash599@gmail.com  
+- 🌐 [Portfolio](https://anu-prakash-19.github.io/Personal-Portfolio)  
+- 🔗 [LinkedIn](https://linkedin.com/in/anuprakash19)
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![light](img/undraw_proud_coder_light.svg) | *(Add a dark mode version if available)* |
+## 💬 Let’s Connect!
 
----
-
-## 🧑‍💻 Author
-
-**Anu Prakash**
-
-- 💼 [Portfolio](https://anu-prakash-19.github.io/Personal-Portfolio/)
-- 📸 [Instagram](https://instagram.com/anuprakashh)
-- 💻 [GitHub](https://github.com/anuprakash599)
-- 💼 [LinkedIn](https://www.linkedin.com/in/anuprakash19/)
-
----
-
-## 📜 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
-
-
+If you’d like to know more about this project or collaborate on something similar, feel free to reach out!
