@@ -27,3 +27,30 @@ A simple and responsive website template that allows users to toggle between **L
 
 ## 📁 Folder Structure
 
+---
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![light](img/undraw_proud_coder_light.svg) | *(Add a dark mode version if available)* |
+
+---
+
+## 🧑‍💻 Author
+
+**Anu Prakash**
+
+- 💼 [Portfolio](https://anu-prakash-19.github.io/Personal-Portfolio/)
+- 📸 [Instagram](https://instagram.com/anuprakashh)
+- 💻 [GitHub](https://github.com/anuprakash599)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anuprakash19/)
+
+---
+
+## 📜 License
+
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+
+
